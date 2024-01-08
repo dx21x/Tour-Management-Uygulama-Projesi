@@ -1,5 +1,5 @@
 # Ankara Üniversitesi
-#          BLM4538-A IOS İle Mobil Uygulama Geliştirme II
+#          BLM4531 - Ağ Tabanlı Teknolojiler Ve Uygulamaları
 #                  Yemek kitabı Uygulama Projesi 
 #  ~ Almotasembelah M A Sawalhi ~
 #  ~ 20290197 ~
